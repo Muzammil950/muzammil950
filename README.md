@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muzammil!
+# 👋 itz me Muzammil!
 
 🎓 AI & DS in the Making | Learner Data Science | Machine Learning | Python | Data Visualization
 
