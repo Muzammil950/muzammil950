@@ -12,11 +12,15 @@
 ---
 
 ### ⚡ Technologies I Use
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)
-![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
-
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
