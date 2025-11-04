@@ -27,11 +27,12 @@
 </p>
 
 
-### 📫 Connect with Me
- 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muzammil-shaikh01)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muzammil9709@gmail.com)
+## Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/muzammil-shaikh01/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+</a>
+&nbsp;&nbsp;
 
 
 
