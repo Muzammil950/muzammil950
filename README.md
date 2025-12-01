@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUZAMMIL950&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUZAMMIL950&layout=compact&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammil950&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil950&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 
