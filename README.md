@@ -25,7 +25,10 @@
 
 ## 🔥 GitHub Activity
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MUZAMMIL950&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUZAMMIL950&theme=react-dark" width="500"/>
+</p>
+
 
 ## 📊 GitHub Stats
 
