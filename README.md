@@ -11,23 +11,21 @@
 
 ---
 
-
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,opencv,sklearn,numpy,pandas,matplotlib,seaborn,mysql,mongodb,docker,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,flask,tensorflow,opencv,sklearn,numpy,pandas,matplotlib,seaborn,mysql,mongodb,docker,github,cpp,r,vscode,linux&theme=dark&perline=20" />
 </p>
+
 ---
-
-
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUZAMMIL950&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUZAMMIL950&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MUZAMMIL950&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MUZAMMIL950&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
